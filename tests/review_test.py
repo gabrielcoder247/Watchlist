@@ -1,6 +1,6 @@
 import unittest
-from models import Review
-Review = review.Review
+from app.models import Review
+# Review = models.Review
 
 class TestReview(unittest.TestCase):
 
